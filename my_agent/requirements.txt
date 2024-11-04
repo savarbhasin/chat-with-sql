@@ -1,0 +1,7 @@
+langchain
+langchain_core
+langgraph
+pydantic
+pyscopg2
+langchain_openai
+langchain_groq
